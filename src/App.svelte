@@ -24,7 +24,6 @@
 		/>
 	</svg>
 	<h1>Coming soon!</h1>
-	<p>Welcome to Guwahati's best freeflight club!</p>
 	<p>
 		Visit us on <a
 			href="https://www.facebook.com/Fly-Guwahati-Paragliding-101553572361465"
@@ -40,6 +39,7 @@
 		max-width: 240px;
 		margin: 0 auto;
 	}
+
 
 	h1 {
 		color: #ff3e00;
